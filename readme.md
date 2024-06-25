@@ -1,3 +1,7 @@
+| Colab | Info
+| --- | --- |
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb](https://colab.research.google.com/drive/1pVxrewVdd5QmagYkdn39C-JaDUW38oR-?usp=sharing)) | Fooocus wey colab for zero interuption
+
 <div align=center>
 <img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
 
